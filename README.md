@@ -10,10 +10,8 @@ The repository is organized by platform and concept to keep the codebase clean a
 
 ```text
 ├── CodeChef/
-│   ├── Arrays/
-│   ├── Math/
-│   └── Strings/
+│   ├── ProblemSets
 ├── Codeforces/
-│   ├── Prefix_Sum/
-│   └── Logic/
+│   ├── Gym
+│   └── Contests
 └── README.md
